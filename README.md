@@ -140,4 +140,8 @@ The triage command must then be run with `threat-triage` as the current director
 
 ## Brief Video Demo
 
-https://github.com/user-attachments/assets/9adfa21e-99e9-468a-9bd4-967d0ab5d979
+
+
+https://github.com/user-attachments/assets/36f137cc-5987-46a6-b9a2-efbebf0fada4
+
+
