@@ -137,3 +137,7 @@ The triage command must then be run with `threat-triage` as the current director
 - Add safe sample journal records and mock API responses so the workflow can be demonstrated without live credentials or external requests.
 - Add timestamps, source event counts, and other useful context to the blacklist format.
 - Add explicit API-key validation, clearer API error handling, and documented rate-limit behavior for file lookups.
+
+## Brief Video Demo
+
+https://github.com/user-attachments/assets/9adfa21e-99e9-468a-9bd4-967d0ab5d979
