@@ -1,6 +1,6 @@
 # SSH Log Monitoring & Threat Triage
 
-A Go-based security operations portfolio project that turns SSH authentication failures into an analyst-reviewable IP list, then enriches selected indicators with VirusTotal data.
+Turns SSH authentication failures into an analyst-reviewable IP list, then enriches selected indicators with VirusTotal data.
 
 The project is split into two small tools:
 
